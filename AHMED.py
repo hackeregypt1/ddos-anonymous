@@ -1,14 +1,9 @@
 # ddos-anonymous
 
-#to install tool
+#import os
 
-#comand
+#os.system ('clear')
 
-# apt install git && apt install python -y
+#print ('Welcome In My Tool')
 
-#git clone https://github.com/hackeregypt1/ddos-anonymous/
-
-
-#cd ddos-anonymous
-
-# 
+#print (█████████)
